@@ -27,3 +27,5 @@ The goal of these tutorial is to help using backtrader to build backtesting syst
 - Testing_of_a_trading_strategy_on_multiple_stocks.ipynb: complex file using several datasets as well as several indicators stored in a dictionary. Strategy must be checked.
 
 - Nice_print_backtrader_plotting.ipynb: using bokeh and backtrader_plotting to print better charts
+
+- optimize_strategy_backtesting.ipynb: optimize backtesting parameters according to specific metrics
